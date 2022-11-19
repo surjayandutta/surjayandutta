@@ -15,7 +15,7 @@
  💡 Ask me about `Python`, `Java`, `Data Science`, `Machine/Deep Learning`!
 
 
-  Check out my [resume]() here!
+  Check out my [resume](https://github.com/surjayandutta/surjayandutta/blob/main/resources/Surjayan_CV1.pdf) here!
               
 
     
