@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👀 I'm  Surjayan.😁 </h1><a target="_blank">
+<h1 align="center">Hello! I'm  Surjayan. </h1><a target="_blank">
 
 <html>
   <div class="container">
@@ -12,7 +12,7 @@
               
  👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `Data Science`. 
               
- 💡 Ask me about `Python`, `Java`, `Data Science`, `Machine/Deep Learning`!
+ 💡 Ask me about `Python`, `Fast API`, `Data Science`, `Machine/Deep Learning`!
 
 
   Check out my [resume](https://github.com/surjayandutta/surjayandutta/blob/main/resources/Surjayan_CV1.pdf) here!
